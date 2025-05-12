@@ -1,0 +1,6 @@
+name: My custom action
+description: Just a Simple action
+
+runs:
+  using: node16
+  main: "dist/index.js"
